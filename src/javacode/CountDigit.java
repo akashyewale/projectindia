@@ -16,6 +16,8 @@ public class CountDigit {
 		}	
 			
 		System.out.println(count);
+		
+		asdf
 
 	    }
 
